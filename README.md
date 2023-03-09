@@ -4,7 +4,8 @@ It consist of the Random Forest Regressor together with the evaluation aspects i
 
 Dataset
 
-The dataset used in this project is the Churn_Modelling dataset Churn_Modelling.csv
+The dataset used in this project is the Churn_Modelling dataset [Churn_Modelling.csv](https://github.com/Levi-Lamar/RandomForestRegressor-ChurnModelling/files/10927870/Churn_Modelling.csv)
+
 
 Which contains information about the customer details. The dataset includes 10000 instances and 13 attributes including the CreditScore of customers registered.
 
